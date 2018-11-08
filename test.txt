@@ -1,4 +1,4 @@
-v: 1.0.1-SNAPSHOT
+v: 1.0.1
 
 lalala
 
